@@ -7,7 +7,7 @@ public class QuestionBank {
     private final List<String> questions = new ArrayList<>();
 
     public QuestionBank() {
-        // Initialize question bank
+        // Initialize questions bank
         questions.add("What is the capital of France?");
         questions.add("Solve: 5 + 3 * 2.");
         questions.add("Who wrote 'Hamlet'?");
